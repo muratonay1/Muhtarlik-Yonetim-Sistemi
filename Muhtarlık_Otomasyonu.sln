@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muhtarlık_Otomasyonu", "Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu.csproj", "{218D5894-A474-4166-9891-EE123F5BFC7D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Muhtar_Otomasyonu", "Muhtar_Otomasyonu\Muhtar_Otomasyonu.vdproj", "{09B3B9D1-FE32-4131-A2DC-128FDBF157CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Muhtarlık Setup", "Muhtarlık Setup\Muhtarlık Setup.vdproj", "{0D14EA2C-362C-4FDA-A889-C49EAB01CE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218D5894-A474-4166-9891-EE123F5BFC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218D5894-A474-4166-9891-EE123F5BFC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218D5894-A474-4166-9891-EE123F5BFC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218D5894-A474-4166-9891-EE123F5BFC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B3B9D1-FE32-4131-A2DC-128FDBF157CB}.Debug|Any CPU.ActiveCfg = Debug
+		{09B3B9D1-FE32-4131-A2DC-128FDBF157CB}.Release|Any CPU.ActiveCfg = Release
+		{0D14EA2C-362C-4FDA-A889-C49EAB01CE74}.Debug|Any CPU.ActiveCfg = Debug
+		{0D14EA2C-362C-4FDA-A889-C49EAB01CE74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62765DAE-87D3-4F8F-A753-E0D1532B5349}
+	EndGlobalSection
+EndGlobal

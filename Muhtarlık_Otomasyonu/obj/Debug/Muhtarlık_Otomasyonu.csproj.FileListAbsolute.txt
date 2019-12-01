@@ -1,0 +1,76 @@
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe.config
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.pdb
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form1.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Properties.Resources.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.pdb
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form2.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.KisiEkle.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form3.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form4.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form5.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form6.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form7.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form8.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form9.resources
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Otomasyon_Database.mdf
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Otomasyon_Database_log.ldf
+C:\Users\Murat\Desktop\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe.config
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.pdb
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form1.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form2.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form3.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form4.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form5.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form6.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form7.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form8.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form9.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.KisiEkle.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.pdb
+C:\Users\murat\Desktop\İsmet_Murat_Onay_ 15541012\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\muhtarlik.mdb
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\muhtarlik.mdb
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe.config
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Muhtarlık_Otomasyonu.pdb
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form1.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form2.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form3.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form4.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form5.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form6.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form7.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form8.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Form9.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.KisiEkle.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.exe
+C:\Users\murat\Desktop\otomasyon_muhtar\Muhtarlık Otomasyon Kodları\OTOMASYON\Muhtarlık_Otomasyonu\Muhtarlık_Otomasyonu\obj\Debug\Muhtarlık_Otomasyonu.pdb
