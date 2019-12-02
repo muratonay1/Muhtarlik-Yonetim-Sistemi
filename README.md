@@ -78,4 +78,10 @@
 
 
 
+# Örnek Ölüm Belgesi Yazdırma İşlemi
+
+
+![olum](https://user-images.githubusercontent.com/34923740/69990637-1cef3c00-1557-11ea-90f4-d47a7355dd8c.PNG)
+
+
 
